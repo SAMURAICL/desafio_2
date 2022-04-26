@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.banner{
+    margin: 10px;
+    width: auto;
+    height: 50rem;
+    background-image: url(/assets/imgs/Diseñosintítulo.png);
+    background-attachment: scroll;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+
+.txt-banner{
+
+    font-size: 2rem;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 25rem;
+    padding-left: 10rem;
+    
+}
+
+.txt-section{
+
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+table{
+    
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+}
+table, th, td {
+
+    border-bottom: 1px solid #ddd;
+
+}
+
+
+
+footer{
+
+      margin: 10px;  
+      font-size: 1rem;
+      font-family:Arial, Helvetica, sans-serif;
+      background-color: #EDE9E7;
+      text-align: center;
+      height: 2rem;
+      padding-top: 20px;
+}
